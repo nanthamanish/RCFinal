@@ -7,5 +7,5 @@
 + If the executable and the contestant's output corresponding to each (hidden) input match, they are awarded points
 
 ***Solution***
-+ The code used to make the executables (essentially the solution) is added in the ```Solution/``` folder
-+ The entire code is given in a singel file, the participants will upload a seperate file for each subpart
++ The code used to make the executables (essentially the solution) is added to the ```Solution/``` folder
++ The entire code is given in a single file, the participants will have to upload a seperate file for each subpart
